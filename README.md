@@ -1,16 +1,24 @@
-### Hi there 👋
+###  Backend Developer 
+    
+    안녕하세요! 백엔드 개발자를 목표로 매일매일 성장하는 개발자입니다.
+    Java와 Spring boot를 사용하여 웹 개발을 합니다. 
+<br/>
 
-<!--
-**leawvc/leawvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   
+    
+## 💻 Tech Stacks 💻
 
-Here are some ideas to get you started:
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+    
+
+[![Sangjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=leawvc)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leawvc)](https://solved.ac/leawvc/)
+   
